@@ -1,14 +1,19 @@
 {
-  "name": "qa",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {},
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "@playwright/test": "^1.49.1",
-    "@types/node": "^22.10.7"
-  }
+	"name": "sveta",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"devDependencies": {
+		"@biomejs/biome": "^2.3.9",
+		"@faker-js/faker": "^9.9.0",
+		"@playwright/test": "^1.57.0",
+		"@types/node": "^25.0.1"
+	},
+	"dependencies": {
+		"allure-playwright": "^3.4.3"
+	}
 }
