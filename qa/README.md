@@ -28,3 +28,8 @@ This is an open-ended exercise designed to showcase your skills and expertise wi
 
 ### Submitting your coding exercise
 Once you have finished the coding exercise please create a PR into Tekmetric/interview
+
+## Run locally
+1. npm i 
+2. npx playwright test
+3. allure serve
